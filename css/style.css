@@ -8320,7 +8320,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #191919 !important;
+    background: #05172bde !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     padding: 0 15px; }
@@ -8586,7 +8586,7 @@ h1, h2, h3, h4, h5,
   background: #f8f9fa !important; }
 
 .bg-dark {
-  background: #191919 !important; }
+  background: #05172bde !important; }
 
 .bg-primary {
   background: #FFAC00; }
