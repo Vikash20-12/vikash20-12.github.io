@@ -8381,7 +8381,7 @@ h1, h2, h3, h4, h5,
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
       color: #FFAC00;
-      font-family: mustardo;
+      font-family: 'Hindi-Siliguri', sans-serif;
       padding-top: 1rem;
       padding-bottom: 1rem;
       font-size: 24px; }
